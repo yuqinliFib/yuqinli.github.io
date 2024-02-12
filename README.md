@@ -1,2 +1,2 @@
 # yuqinli.github.io
-Yuqin Li's Learning Log
+Welcome to Yuqin'Log
